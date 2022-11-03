@@ -7,7 +7,6 @@ Sub VBA_Challenge()
     Dim closing_price As Double
     Dim yearly_change As Double
     Dim start As Long
-    Dim cf As Long
     Dim total As Double
     Dim ticker As String
     Dim output_row As Integer
@@ -112,5 +111,3 @@ Sub VBA_Challenge()
     Next ws
 
 End Sub
-
-
