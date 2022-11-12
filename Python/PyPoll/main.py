@@ -23,7 +23,8 @@ with open(csvpath, 'r') as csvfile:
             canidates[canidateName] = 1
 
 
-# Text Print
+# Writ to Txt File
+
 output_path = os.path.join("Analysis", "PyPoll.txt")
 with open(output_path, 'w') as txt_file:
         txt_file.write("Election Results")
