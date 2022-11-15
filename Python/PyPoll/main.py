@@ -7,7 +7,7 @@ totalVotes = 0
 mostVotesCount = 0
 mostVotesCanidate = ""
 
-csvpath = os.path.join("Resources", "election_data.csv")
+csvpath = 'Resources/election_data.csv'
 
 with open(csvpath, 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
