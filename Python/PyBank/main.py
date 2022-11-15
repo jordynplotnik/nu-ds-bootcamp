@@ -6,7 +6,7 @@ profitloss = []
 csvData = []
 plChange = []
 
-csvpath = os.path.join("Resources", "budget_data.csv")
+csvpath = 'Resources/budget_data.csv'
 
 with open(csvpath, 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
