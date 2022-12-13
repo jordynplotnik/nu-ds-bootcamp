@@ -1,0 +1,1 @@
+This repository is used to store files for Northwestern Universities Data Science Bootcamp.  This repository shows my skills in the following areas: Statistics, Python (pandas, matplotlib), APIs, VBA, and MS Excel
