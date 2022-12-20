@@ -1,6 +1,6 @@
 # Repository for Northwestern Data Science Bootcamp
 
-This repository is used to store files for Northwestern University's DS Bootcamp.  This repository has many examples to demonstrate my skills in the following areas: 
+This repository is used to store files for Northwestern University's Data Science Bootcamp.  This repository has many examples to demonstrate my skills in the following areas: 
 
 1.	Employ statistical analysis to model, predict, and forecast trends
 2.	Build VBA scripts in Excel to automate manual processes
