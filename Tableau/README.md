@@ -7,6 +7,6 @@ There are two dashboards included in my viz.  The Station Start Dashboard shows 
 
 The second dashboard, looks at end station data.  The End Station Dashboard also shows Grove St Path as the most popular station.  Also, we can see in this dashboard that there are much more end stations populating in the Open Street Map.  This is interesting because it looks like most of these stations are outside of Manhattan. 
 
-## Link
+## References
 
-For reference the link to the dashboard is : https://public.tableau.com/views/NYCitiBikeViz/StartStationDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+For reference the link to the Tableau dashboard is: https://public.tableau.com/views/NYCitiBikeViz/StartStationDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
