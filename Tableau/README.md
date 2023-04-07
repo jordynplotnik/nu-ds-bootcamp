@@ -1,5 +1,5 @@
 ## Data 
-The data was extracted from the Citi Bike Data page.  The data used was every 2 months since 2021.  Note, this data is incomplete for 2023, as the year has not yet completed. The join of all the datasets can be shown in Tableau_Base.ipynb located in this folder.
+The data was extracted from the Citi Bike Data page.  The data used was every 2 months since 2021.  Note, this data is incomplete for 2023, as the year has not yet completed. The datasets were joined using concat in Tableau_Base.ipynb located in this folder. Note, the orignal datasets are not in Github due to size of the original csvs.
 
 ## Analysis
 
