@@ -8,7 +8,7 @@ In this repository, machine learning was used to predict whether a loan would be
 
 Note: Label 0 represents a healthy investment, and label 1 indicates a high-risk investment.
 
-The results showed that the model had a high level of precision and recall for both healthy and high-risk loans. The precision for label 0 (healthy investments) was 1.00, and recall was 0.99. For label 1 (high-risk investments), the precision was 0.85, and recall was 0.89. Overall, the model achieved 99% accuracy, with 18,765 loans predicted as healthy and 619 loans predicted as high-risk.
+The results showed that the model had a high level of precision and recall for both healthy and high-risk loans. The precision for label 0 (healthy investments) was 1.00, and recall was 0.99. For label 1 (high-risk investments), the precision was 0.85, and recall was 0.91. Overall, the model achieved 99% accuracy, with 18,765 loans predicted as healthy and 619 loans predicted as high-risk.
 
 ## Summary
 
