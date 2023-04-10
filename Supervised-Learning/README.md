@@ -2,9 +2,7 @@
 
 This analysis was to use machine learning to predict whether a loan would be a healthy or a high-risk investment.  A liner model using sklearn was created to determine an accuracy score, generate a confusion matrix and a final classification report.
 
-## Results
-
-* Machine Learning Training Model:
+## Results from Training Model
 
 <img width="419" alt="Screen Shot 2023-04-10 at 11 51 17 AM" src="https://user-images.githubusercontent.com/116044037/230950322-d25d92b9-4c57-46b6-b498-4f5f34286755.png">
 
