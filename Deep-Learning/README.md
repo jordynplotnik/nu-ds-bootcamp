@@ -16,5 +16,5 @@ The nonprofit, Alphabet Soup wants a machine learning tool to predict the succes
 * Steps to increase model performance: Dropped more columns (Status, Special Considerations), increased "Other" threshold, etc. 
 
 ## Summary
-The model did not achieve the desired accuracy of 75%. However, after attempting to update the model by cleaning up the columns and data, there was a slight increase in the final accuracy, resulting in an accuracy of ___
+The model did not achieve the desired accuracy of 75%. However, after attempting to update the model by cleaning up the columns and data, there was a slight increase in the final accuracy, resulting in an accuracy of 72.72%
 
