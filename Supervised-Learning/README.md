@@ -1,31 +1,19 @@
-# Module 12 Report Template
+## Analysis
 
-## Overview of the Analysis
-
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+This analysis was to use machine learning to predict whether a loan would be a healthy or a high-risk investment.  A liner model using sklearn was created to determine an accuracy score, generate a confusion matrix and a final classification report.
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+* Machine Learning Training Model:
 
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+<img width="419" alt="Screen Shot 2023-04-10 at 11 51 17 AM" src="https://user-images.githubusercontent.com/116044037/230950322-d25d92b9-4c57-46b6-b498-4f5f34286755.png">
 
+Note: Label 0 represents a healthy investment and label 1 indicates a high-risk investment.
 
+The results showed that the model had a high level of precision and recall for both healthy and high-risk loans. The precision for label 0 (healthy investments) was 1.00 and recall was 0.99, while for label 1 (high risk investments) the precision was 0.85 and recall was 0.89. Overall, the model achieved 99% accuracy with 18,765 loans predicted as healthy and 619 loans predicted as high-risk.
 
-* Machine Learning Model 2:
-* Description of Model 2 Accuracy, Precision, and Recall scores.
+In general, the model performed well with high levels of precision and recall for both healthy and high-risk loans. , but it has slightly lower accuracy for predicting high-risk cases compared to healthy cases.
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-* Which one seems to perform best? How do you know it performs best?
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
-
-If you do not recommend any of the models, please justify your reasoning.
+Overall the model was 99% accurate reporting 18,765 loans as healthy and 619 as high-risk. To improve the model's performance, adjustments could be made to more accurately identify high-risk loans. Despite this, the model's overall accuracy was high, and it would be sufficient for use as only 56 loans were falsely classified as high-risk.
