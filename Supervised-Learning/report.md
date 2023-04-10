@@ -20,7 +20,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 
 * Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+* Description of Model 2 Accuracy, Precision, and Recall scores.
 
 ## Summary
 
